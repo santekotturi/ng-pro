@@ -1,0 +1,9 @@
+{
+  "name": "sportstore",
+  "description": "A webapp built while learning angular using Angular-Pro by Adam Freeman",
+  "author": "Sante Kotturi",
+  "dependencies": {
+    "connect": ">= 2.17.1"
+  }
+  
+}
