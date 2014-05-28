@@ -4,7 +4,7 @@
 ##Instructions:
 
 ####To run deployd:
-1. download \& install first <a href="www.deployd.com"></a>
+1. download \& install first [deployd](www.deployd.com)
 2. run `$ dpd -d 5500 app.dpd` from within the root dir
 
 ####To run the app:
