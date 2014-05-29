@@ -10,7 +10,7 @@
 ####To run the app:
 1. download & install node (instructions online for each OS)
 If using mac & homebrew, `$brew install node` which will also install npm
-2. Install the dependencies, only `connect` at this time: `$ npm install`
-2. start the node server to serve the app: `$ node server.js`
+2. Install the dependencies (only `connect` at this time): `$npm install`
+2. start the node server to serve the app: `$node server.js`
 
 ####From there click around and enjoy this hyper-functional webapp...
