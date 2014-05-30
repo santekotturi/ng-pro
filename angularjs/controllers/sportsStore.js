@@ -14,7 +14,15 @@ angular.module("sportsStore")
   				{ name: "Product C",
 				  description: "something about B", 
 				  category: "another cat",
-				  price: "$1,000,000" }
+				  price: "$1,000,000" },
+				{ name: "Product D",
+				  description: "something about B", 
+				  category: "another cat",
+				  price: "$1,000,001" },
+				{ name: "Product E",
+				  description: "something about B", 
+				  category: "another cat",
+				  price: "$1,000,002" }  
 			]
 		};
 
