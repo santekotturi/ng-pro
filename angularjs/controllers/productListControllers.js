@@ -19,7 +19,8 @@ angular.module("sportsStore")
 		}
 
 		$scope.categoryFilterFn = function(product){
-			return selectedCategory == null || product.category == selectedCategory; 
+			return selectedCategory == null || 
+			product.category == selectedCategory; 
 		}
 
 		$scope.getCategoryClass = function(category){
