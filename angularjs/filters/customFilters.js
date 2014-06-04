@@ -26,7 +26,7 @@ angular.module('customFilters', [])
 			if (angular.isArray(data) && angular.isNumber(page) && angular.isNumber(size)){
 				var start_index = (page - 1) * size; 
 				console.log("start index",start_index);
-				if (data.length > start_index){
+				if (data.length < start_index){
 					// console.log("going to return nothing");
 					return [];
 				} else {
