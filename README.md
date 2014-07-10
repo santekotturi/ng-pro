@@ -5,7 +5,7 @@
 
 ####To run deployd:
 1. download & install [deployd](www.deployd.com)
-2. run `$ dpd -d 5500 app.dpd` from within the root dir
+2. run `$ dpd -d 5500 app.dpd` from within the root dir, then `> dashboard`
 
 ####To run the app:
 1. download & install node (instructions online for each OS)
